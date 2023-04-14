@@ -8,7 +8,7 @@ public class Exerciciovariavel {
     int mediaPrecos = (preco1 + preco2 + preco3) / 3;
 
 
-    System.out.println("\"sisema de Calculos de Media\"");
+    System.out.println("\"sisema de Calculos //\"");
     System.out.println("preco 1: " + preco1);
     System.out.println("preco 2: " + preco2);
     System.out.println("preco 3: " + preco3);
